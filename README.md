@@ -1,4 +1,4 @@
-# 🛰️ OrbitWatch AI
+# OrbitWatch AI
 
 Real-time orbital wildfire detection using onboard satellite AI.
 
